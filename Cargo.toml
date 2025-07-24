@@ -1,0 +1,10 @@
+[package]
+name = "external_cheat"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+crossterm = "0.29.0"
+mach2 = "0.4.3"
+process-memory = "0.5.0"
+sysinfo = "0.36.1"
